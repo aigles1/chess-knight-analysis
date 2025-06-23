@@ -1,0 +1,10 @@
+pip packages:
+pillow
+cairosvg
+requests
+python-chess
+
+cairosvg may require the dependency GTK3 Runtime
+https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
+
+on MacOS: brew install gtk+3
